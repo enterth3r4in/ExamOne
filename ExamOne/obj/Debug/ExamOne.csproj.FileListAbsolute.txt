@@ -1,1 +1,9 @@
 C:\Users\as600\Documents\GitHub\ExamOne\ExamOne\bin\Debug\ExamOne.exe.config
+C:\Users\as600\Documents\GitHub\ExamOne\ExamOne\obj\Debug\ExamOne.csprojResolveAssemblyReference.cache
+C:\Users\as600\Documents\GitHub\ExamOne\ExamOne\obj\Debug\ExamOne.Form1.resources
+C:\Users\as600\Documents\GitHub\ExamOne\ExamOne\obj\Debug\ExamOne.Properties.Resources.resources
+C:\Users\as600\Documents\GitHub\ExamOne\ExamOne\obj\Debug\ExamOne.csproj.GenerateResource.Cache
+C:\Users\as600\Documents\GitHub\ExamOne\ExamOne\bin\Debug\ExamOne.exe
+C:\Users\as600\Documents\GitHub\ExamOne\ExamOne\bin\Debug\ExamOne.pdb
+C:\Users\as600\Documents\GitHub\ExamOne\ExamOne\obj\Debug\ExamOne.exe
+C:\Users\as600\Documents\GitHub\ExamOne\ExamOne\obj\Debug\ExamOne.pdb
